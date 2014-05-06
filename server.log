@@ -1,0 +1,19 @@
+Thu Apr 10 01:27:10 2014 Server Starts - :50000
+Thu Apr 10 01:27:28 2014 Server Stops
+127.0.0.1 - - [10/Apr/2014 01:29:23] "CONNECT lh6.googleusercontent.com:443 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Apr/2014 01:29:23] "CONNECT apis.google.com:443 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Apr/2014 01:29:23] "CONNECT www.google.com:443 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Apr/2014 01:29:23] "CONNECT p5-wubczb3zzzvje-bnl6fbfmhczlfk7x-500027-i2-v6exp3-ds.metric.gstatic.com:443 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Apr/2014 01:29:23] "CONNECT p5-wubczb3zzzvje-bnl6fbfmhczlfk7x-500027-i2-v6exp3-ds.metric.gstatic.com:443 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Apr/2014 01:29:23] "CONNECT p5-wubczb3zzzvje-bnl6fbfmhczlfk7x-500027-i2-v6exp3-ds.metric.gstatic.com:443 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Apr/2014 01:29:23] "CONNECT www.gstatic.com:443 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Apr/2014 01:29:23] "CONNECT ssl.gstatic.com:443 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Apr/2014 01:29:23] "CONNECT plus.google.com:443 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Apr/2014 01:29:23] "CONNECT www.google.com:443 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Apr/2014 01:29:24] "CONNECT plus.google.com:443 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Apr/2014 01:29:25] "GET http://www.google.com/ HTTP/1.1" - -
+127.0.0.1 - - [10/Apr/2014 01:29:25] "CONNECT p5-wubczb3zzzvje-bnl6fbfmhczlfk7x-500027-i1-v6exp3-v4.metric.gstatic.com:443 HTTP/1.1" 200 -
+127.0.0.1 - - [10/Apr/2014 01:29:29] "GET http://p-log.ykimg.com/tslog?cpt=747&lang=1&ctp=1&pc=0&full=0&iku=n&r=139876206&uid=0&pt=740&vvid=9397103234455103d1859&cf=0&vid=174122233&sn=52&hi=20 HTTP/1.1" - -
+127.0.0.1 - - [10/Apr/2014 01:29:32] "POST http://www.verycd.com/ajax/i/notice HTTP/1.1" - -
+Thu Apr 10 01:28:47 2014 Server Starts - :50000
+Thu Apr 10 01:29:38 2014 Server Stops

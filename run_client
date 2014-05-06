@@ -1,0 +1,3 @@
+#! /bin/bash
+echo 'Ctrl+c to stop the local proxy server'
+python client.py 

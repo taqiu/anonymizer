@@ -1,0 +1,4 @@
+#! /bin/bash
+# python server.py --ssl_off >> /dev/null 2>&1
+python server.py  >> server.log 2>&1  &
+

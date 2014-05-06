@@ -1,0 +1,8 @@
+#! /bin/bash
+USER='taqiu'
+HOST='burrow.soic.indiana.edu'
+DIR='~/anonymizer'
+scp server.py $USER@$HOST:$DIR
+scp run_server $USER@$HOST:$DIR
+scp auth/server.key $USER@$HOST:$DIR/auth
+scp auth/server.crt $USER@$HOST:$DIR/auth
